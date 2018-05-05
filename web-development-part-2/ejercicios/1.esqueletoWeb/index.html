@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+    <title>The criticadaJS Show!</title>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="js/database.js"></script>
+    <script src="js/index.js"></script>
+    <link href="http://fonts.googleapis.com/css?family=Fredericka the Great&subset=latin" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/index.css" />
+</head>
+
+<body>
+    <div class="content">
+
+        <!-- HEADER -->
+        <header>
+            <div class="links">
+                <a href="http://www.meetup.com/es-ES/AdaBcnJS/" target="_blank">
+                    <img src="img/logoMeetup.png" alt="Meetup">
+                </a>
+                <a href="https://twitter.com/adabcnjs" target="_blank">
+                    <img src="img/logoTwitter.png" alt="Twitter">
+                </a>
+                <a href="https://www.facebook.com/adabcnJS" target="_blank">
+                    <img src="img/logoFacebook.png" alt="Twitter">
+                </a>
+            </div>
+        </header>
+
+        <!-- MENU -->
+        <div id=menu>
+            <ul>
+                <li>
+                    <button onclick="window.location.href='index.html';">Inicio</button>
+                </li>
+                <li>
+                    <button onclick="window.location.href='index.html';">Películas</button>
+                </li>
+                <li>
+                    <button>Más adelante...</button>
+                </li>
+            </ul>
+        </div>
+
+        <!-- FILMS -->
+        <section>
+            <article id="films">
+                <div class="header">
+                    Estas son las películas de nuestra base de datos! 
+                </div>
+                <div class="films"></div>
+            </article>
+        </section>
+
+        <!-- FOOTER -->
+        <footer>
+            <div><a href="http://ada.barcelonajs.org/" target="_blank">adaJS</a>, 2016</div>
+        </footer>
+
+    </div>
+    
+</body>
+
+</html>

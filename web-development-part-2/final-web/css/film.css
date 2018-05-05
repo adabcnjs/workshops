@@ -1,0 +1,30 @@
+#film {
+	margin: 0 20px;
+	display: flex;
+	align-items: flex-start;
+}
+
+#film .poster {
+	display: inline-block;
+	width: 30%;
+	margin-right: 30px;
+}
+
+#film .poster img {
+	width: 100%;
+}
+
+#film .description {
+	display: inline-block;
+	max-width: 60%;
+	color: white;
+}
+#film .description div {
+	margin-bottom: 10px;
+	font-weight: 300;
+}
+#film .description .title {
+	font-family: 'Fredericka the Great', sans-serif;
+	font-size: 150%;
+	color: #83C7C7;
+}

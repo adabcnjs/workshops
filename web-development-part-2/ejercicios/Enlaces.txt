@@ -1,0 +1,20 @@
+1. Slides Html-Css: http://slides.com/adajs/workshop-programacion-web-html-javascript-jquery-parte-i
+2. Slides JQUERY: http://slides.com/adajs/jquery-part-1 
+3. Slides JQUERY II: http://slides.com/adajs/workshop-programacion-web-html-javascript-jquery-parte-ii
+
+Código de Base:
+https://drive.google.com/open?id=0BwV89gY9gW8acGIycEdwcVJ2blk
+ 
+Plunkr 1. jQuery selectors http://plnkr.co/edit/85gWSR?p=info 
+  
+Plunkr 2. Eventos, navegación entre elementos del dom http://plnkr.co/edit/ZeAVpM?p=info
+  
+Plunkr 3. select, change, attr http://plnkr.co/edit/gKn2ZJ
+  
+Plunkr 4. Carga de datos estáticos, .append() http://plnkr.co/edit/ijR3Sc?p=info 
+  
+Plunkr 5. Asignar eventos a elementos de un contenedor http://plnkr.co/edit/7FzsGV?p=info
+(no hay ejercicio) 
+
+Plunkr 6. A list of movie JSON data retrieved from OMDb API http://plnkr.co/edit/0EHHRs?p=info
+ 
