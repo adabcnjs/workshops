@@ -1,6 +1,6 @@
-###Clean code
+### Clean code
 
-##Details
+## Details
 
 Everyone wants to code, and anyone can code... but can anyone understand our code? Every day more and more companies are starting to look for developers who follow best practices, and writing clean code is the most important best practice that we should follow.
 
@@ -12,7 +12,7 @@ This will be a session led by Beatriz Martín, JavaScript Technical Lead at AXA 
 
 "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler, 2008
 
-##Required:
+## Required:
 
 - Basic programming knowledge
 
