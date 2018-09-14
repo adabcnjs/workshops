@@ -1,6 +1,6 @@
 # adaJS
 
-## Workshop: npm
+## Workshop: HTML5 GAMES
  
 http://ada.barcelonajs.org 
  
