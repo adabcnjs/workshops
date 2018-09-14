@@ -1,6 +1,6 @@
 # adaJS
 
-## Workshop: Typescript y ES6
+## Workshop: Python
  
 http://ada.barcelonajs.org 
  
