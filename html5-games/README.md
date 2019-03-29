@@ -1,12 +1,6 @@
 # adaJS
 
-## Workshop: HTML5 GAMES
- 
-http://ada.barcelonajs.org 
- 
-https://www.facebook.com/adabcnJS 
- 
-https://twitter.com/adabcnjs 
+## Workshop: HTML5 games
  
 https://www.meetup.com/es-ES/AdaBcnJS/events/237471558/
 

@@ -2,12 +2,6 @@
 
 ## Workshop: Javascript
 
-http://adajs.cat
-
-https://www.facebook.com/adabcnJS
-
-https://twitter.com/adabcnjs
-
 https://www.meetup.com/es-ES/AdaBcnJS/events/250694187/
 
 ## Contenido

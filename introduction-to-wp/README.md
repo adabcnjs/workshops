@@ -2,14 +2,7 @@
  
 ## Workshop: WordPress 
  
-http://ada.barcelonajs.org 
- 
-https://www.facebook.com/adabcnJS 
- 
-https://twitter.com/adabcnjs 
- 
 https://www.meetup.com/AdaBcnJS/events/234927681/ 
- 
  
 ## Contenido 
  

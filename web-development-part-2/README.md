@@ -2,12 +2,6 @@
 
 ## Workshop: Desarrollo web, Parte II
 
-http://ada.barcelonajs.org/ca/index.html
-
-https://www.facebook.com/adabcnJS
-
-https://twitter.com/adabcnjs
-
 https://www.meetup.com/es-ES/AdaBcnJS/events/230448390/
 
 ## Contenido

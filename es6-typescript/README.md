@@ -2,12 +2,6 @@
 
 ## Workshop: Typescript y ES6
  
-http://ada.barcelonajs.org 
- 
-https://www.facebook.com/adabcnJS 
- 
-https://twitter.com/adabcnjs 
- 
 https://www.meetup.com/es-ES/AdaBcnJS/events/240372056/
 
 ## Contenido
@@ -40,7 +34,3 @@ Podemos utilizar la herramienta online [Typescript Playground](http://typescript
 
 Realizamos un ejercicio de "migración" de JavaScript a Typescript:
 http://github.com/FCalabria/js-to-ts-example
-
-## Recursos
-
-### REFERENCIAS
